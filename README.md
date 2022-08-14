@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faweizhao26)](https://github.com/faweizhao26/github-readme-stats)
+
 <!--
 **faweizhao26/faweizhao26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
