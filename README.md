@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- I’m currently working on QingCloud. 
-- I’m the community manager of KubeSphere.
-- Base: Beijing.
+- I’m currently working on Highgo. 
+- I’m the community manager of IvorySQL.
+- Base: Jinan.
 - My blog: [Fawei'Blog](https://faweizhao26.github.io/)
 - Contact me: faweizhao@kubesphere.io
 
